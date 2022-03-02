@@ -1,7 +1,2 @@
-pwd
-ls
-cd
-ls -l
-ls -al
-ls -nl
+#!/bin/bash
 mkdir /tmp/my_first_directory
