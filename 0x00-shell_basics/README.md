@@ -14,3 +14,6 @@ file /tmp/iamafile
 ln -s /bin/ls __ls__
 cp ./*.html .. -n
 mv [[:upper:]]* /tmp/u
+rm *~
+mkdir -p welcome/to/school
+ls -amp
