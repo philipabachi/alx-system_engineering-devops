@@ -10,3 +10,7 @@ rm /tmp/my_first_directory/betty
 rmdir /tmp/my_first_directory
 cd -
 ls . .. /boot -al
+file /tmp/iamafile
+ln -s /bin/ls __ls__
+cp ./*.html .. -n
+mv [[:upper:]]* /tmp/u
